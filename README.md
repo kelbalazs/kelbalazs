@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Balazs Kelemen
-- 👀 I’m interested in Pytopn
-- 🌱 I’m currently learning  Data Analytics and Machine Learning with Python
+- 👀 I’m interested in JS and front end development
+- 🌱 I’m currently learning  VUE JS and JS
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
